@@ -85,7 +85,8 @@ int main()
 	printf("Brayan Gregório Picuila 10442613230\n");
 	printf("Gabriel Lima Rios 10442614390\n");
 	printf("Igan Gambôa Gonçalves de Lima 10442614828\n");
-	printf("\n\t\tTrabalho feito com muito carinho por todos acima, agradecemos desde já.");
+	printf("\n\t\tTrabalho feito com muito carinho por todos acima, agradecemos desde já\n\n");
+	printf("Iron Fist © 2026. Todos os direitos reservados.\n");
 	sleep(5);
 	
 	do{
@@ -113,7 +114,8 @@ int main()
 				menuPlanos();
 				break;
 			case 0:
-				printf("\t\t\t=========Obrigado por utilizar nosso programa. Volte sempre :)=========\n");	
+				printf("\t\t\t=========Obrigado por utilizar nosso programa. Volte sempre :)=========\n\n");	
+				printf("Iron Fist © 2026. Todos os direitos reservados.\n");
 				break;
 			default:
 				printf("Opção inválida, por favor, tente novamente.\n");		
