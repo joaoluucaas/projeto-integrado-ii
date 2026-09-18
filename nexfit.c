@@ -90,7 +90,7 @@ int main()
 	
 	do{
 		system("cls");
-		printf("\n========== NEXFIT ==========\n");
+		printf("\n========== Iron Fist ==========\n");
         printf("1 - Gerenciar\n");
         printf("2 - Relatorios\n");
         printf("3 - Modalidades\n");
